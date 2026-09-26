@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+
+data/Fake.csv
+data/True.csv
+data/Fake.csv.zip
+data/True.csv.zip
+data/news.csv
