@@ -219,6 +219,9 @@ This system should not be treated as an authoritative fact-checking tool.
 The model learns statistical patterns from its training data. A prediction can therefore be incorrect, particularly when an article differs substantially from the training data or when factual context is required.
 
 ---
+## 🖥️ Application Demo
+
+![Fake News Detection Application](screenshots/app_demo.png)
 
 ## 👩‍💻 Author
 
